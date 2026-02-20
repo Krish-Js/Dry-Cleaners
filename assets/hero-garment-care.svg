@@ -1,0 +1,21 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6EFF9"/>
+      <stop offset="1" stop-color="#C9DBEE"/>
+    </linearGradient>
+    <linearGradient id="hanger" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1C436A"/>
+      <stop offset="1" stop-color="#2A5F92"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="140" y="170" width="920" height="28" rx="14" fill="#254E77" opacity="0.8"/>
+  <path d="M350 290C350 250 382 218 422 218H458C498 218 530 250 530 290V570H350V290Z" fill="url(#hanger)"/>
+  <path d="M555 286C555 246 587 214 627 214H663C703 214 735 246 735 286V570H555V286Z" fill="#356FA6"/>
+  <path d="M760 292C760 252 792 220 832 220H868C908 220 940 252 940 292V570H760V292Z" fill="#1B3E63"/>
+  <path d="M395 220C402 194 424 178 451 178C478 178 500 194 507 220" stroke="#17395D" stroke-width="10" stroke-linecap="round"/>
+  <path d="M600 216C607 190 629 174 656 174C683 174 705 190 712 216" stroke="#2C618F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M805 222C812 196 834 180 861 180C888 180 910 196 917 222" stroke="#17395D" stroke-width="10" stroke-linecap="round"/>
+  <rect x="0" y="620" width="1200" height="180" fill="#F4F8FC"/>
+</svg>
